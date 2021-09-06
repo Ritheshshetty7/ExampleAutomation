@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Users and Products" duration-ms="176" started-at="2021-09-06T18:41:05 IST" finished-at="2021-09-06T18:41:05 IST">
+    <groups>
+    </groups>
+    <test name="Users and Products tests" duration-ms="176" started-at="2021-09-06T18:41:05 IST" finished-at="2021-09-06T18:41:05 IST">
+      <class name="com.sgtesting.unittests.tests.Users">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.sgtesting.unittests.tests.Users@610694f1]" name="setUp" is-config="true" duration-ms="40" started-at="2021-09-06T18:41:05 IST" finished-at="2021-09-06T18:41:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createUser()[pri:0, instance:com.sgtesting.unittests.tests.Users@610694f1]" name="createUser" duration-ms="8" started-at="2021-09-06T18:41:05 IST" finished-at="2021-09-06T18:41:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method status="PASS" signature="deletedUser()[pri:0, instance:com.sgtesting.unittests.tests.Users@610694f1]" name="deletedUser" duration-ms="2" started-at="2021-09-06T18:41:05 IST" finished-at="2021-09-06T18:41:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletedUser -->
+        <test-method status="PASS" signature="modifyUser()[pri:0, instance:com.sgtesting.unittests.tests.Users@610694f1]" name="modifyUser" duration-ms="2" started-at="2021-09-06T18:41:05 IST" finished-at="2021-09-06T18:41:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyUser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sgtesting.unittests.tests.Users@610694f1]" name="tearDown" is-config="true" duration-ms="1" started-at="2021-09-06T18:41:05 IST" finished-at="2021-09-06T18:41:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sgtesting.unittests.tests.Users -->
+      <class name="com.sgtesting.unittests.tests.Products">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.sgtesting.unittests.tests.Products@43814d18]" name="setUp" is-config="true" duration-ms="0" started-at="2021-09-06T18:41:05 IST" finished-at="2021-09-06T18:41:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createProduct()[pri:0, instance:com.sgtesting.unittests.tests.Products@43814d18]" name="createProduct" duration-ms="3" started-at="2021-09-06T18:41:05 IST" finished-at="2021-09-06T18:41:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProduct -->
+        <test-method status="PASS" signature="deletedProduct()[pri:0, instance:com.sgtesting.unittests.tests.Products@43814d18]" name="deletedProduct" duration-ms="5" started-at="2021-09-06T18:41:05 IST" finished-at="2021-09-06T18:41:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletedProduct -->
+        <test-method status="PASS" signature="modifyProduct()[pri:0, instance:com.sgtesting.unittests.tests.Products@43814d18]" name="modifyProduct" duration-ms="1" started-at="2021-09-06T18:41:05 IST" finished-at="2021-09-06T18:41:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyProduct -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sgtesting.unittests.tests.Products@43814d18]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-09-06T18:41:05 IST" finished-at="2021-09-06T18:41:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sgtesting.unittests.tests.Products -->
+    </test> <!-- Users and Products tests -->
+  </suite> <!-- Users and Products -->
+</testng-results>
